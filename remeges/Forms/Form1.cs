@@ -18,7 +18,6 @@ Environment.GetEnvironmentVariable("USERPROFILE"),
 "multiver",
 "lunar-emote.jar"
 );
-        private const string PastebinRawLink = "https://pastebin.com/raw/yCNfnDDN";
         private DiscordRpc.EventHandlers handlers;
         private static readonly string SettingsFilePath = @"C:\Users\" + Environment.UserName + @"\phantomsettings.txt";
         private DiscordRpc.RichPresence presence;
